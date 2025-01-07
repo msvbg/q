@@ -1,0 +1,15 @@
+/Users/martin/src/indiequest/IndieQuest/bin/Debug/net8.0/IndieQuest
+/Users/martin/src/indiequest/IndieQuest/bin/Debug/net8.0/IndieQuest.deps.json
+/Users/martin/src/indiequest/IndieQuest/bin/Debug/net8.0/IndieQuest.runtimeconfig.json
+/Users/martin/src/indiequest/IndieQuest/bin/Debug/net8.0/IndieQuest.dll
+/Users/martin/src/indiequest/IndieQuest/bin/Debug/net8.0/IndieQuest.pdb
+/Users/martin/src/indiequest/IndieQuest/obj/Debug/net8.0/IndieQuest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martin/src/indiequest/IndieQuest/obj/Debug/net8.0/IndieQuest.AssemblyInfoInputs.cache
+/Users/martin/src/indiequest/IndieQuest/obj/Debug/net8.0/IndieQuest.AssemblyInfo.cs
+/Users/martin/src/indiequest/IndieQuest/obj/Debug/net8.0/IndieQuest.csproj.CoreCompileInputs.cache
+/Users/martin/src/indiequest/IndieQuest/obj/Debug/net8.0/IndieQuest.dll
+/Users/martin/src/indiequest/IndieQuest/obj/Debug/net8.0/refint/IndieQuest.dll
+/Users/martin/src/indiequest/IndieQuest/obj/Debug/net8.0/IndieQuest.pdb
+/Users/martin/src/indiequest/IndieQuest/obj/Debug/net8.0/IndieQuest.genruntimeconfig.cache
+/Users/martin/src/indiequest/IndieQuest/obj/Debug/net8.0/ref/IndieQuest.dll
+/Users/martin/src/indiequest/IndieQuest/bin/Debug/net8.0/MonsterManual.txt

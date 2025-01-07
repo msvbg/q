@@ -1,0 +1,4 @@
+interface ScriptInterface
+{
+    void Run();
+}

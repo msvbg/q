@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IndieQuest/1.0.0": {
+        "runtime": {
+          "IndieQuest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndieQuest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
