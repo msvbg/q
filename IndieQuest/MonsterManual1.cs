@@ -41,6 +41,7 @@ public class Monster
     public ArmorTypeId? ArmorTypeId;
     // Full metadata representation used in part 4
     public ArmorMetadata? ArmorMetadata;
+    public string? Speed;
 
     // Returns a string overview of the monster. If extended is true, it will also include the armor metadata.
     public string GetOverview(bool extended = false)
@@ -157,6 +158,10 @@ public class MonsterManual1 : ScriptInterface
                         monster.ArmorType = acMatch.Groups[2].Value;
                         monster.ArmorTypeId = ParseArmorTypeId(monster.ArmorType);
                     }
+                }
+                else if (line.StartsWith("Speed:"))
+                {
+                    monster.Speed = line.Substring(line.IndexOf(':') + 1).Trim();
                 }
             }
 
